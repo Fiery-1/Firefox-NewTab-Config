@@ -9,6 +9,7 @@
         background-attachment: fixed;
         background-position-x: center;
         background-position-y: bottom;
+        background-blend-mode: color-dodge;
         /* background-color: black !important; */
     }
 
@@ -62,5 +63,9 @@
     /* Remove setting icon */
     .icon.icon-settings {
         display: none !important;
+    }
+
+    .fake-textbox {
+        content: 'whatever it is you want to add';    
     }
 }

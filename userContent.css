@@ -3,7 +3,7 @@
 
     /* Change background */
     body {
-        background-image: url("ASSETS/wallpaper.png") !important; 
+        background-image: url("ASSETS/wallpaper5.png") !important; 
         background-size: cover;
         background-repeat: no-repeat;
         background-attachment: fixed;
@@ -34,7 +34,7 @@
         /* Searchbar */
     .search-handoff-button{
         background-color: transparent !important;
-        backdrop-filter: blur(20px) brightness(70%);
+        backdrop-filter: blur(10px) brightness(80%);
     }
     
     .outer-wrapper.only-search {
